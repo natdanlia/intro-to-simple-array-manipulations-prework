@@ -34,7 +34,7 @@ def using_uniq(arr)
   arr.uniq
 end
 
-def using_flatten(arr)
+def using_flatten(request_via_redirect)
   arr.flatten 
 end
 
